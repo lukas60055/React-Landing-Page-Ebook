@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500;700;900&display=swap');
+
+body {
+  font-family: 'Golos Text', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h5 {
+  color: #2f4858;
+}
+
+h1,
+h2 {
+  font-weight: bold;
+}
+
+p,
+li {
+  font-weight: 500;
+  color: #454545;
+}
+
+strong {
+  color: #397b01;
+}

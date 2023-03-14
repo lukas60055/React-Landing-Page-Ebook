@@ -1,0 +1,24 @@
+{
+  "title": "Dla kogo jest ten e-book?",
+  "id": "dla_kogo",
+  "success": {
+    "heading": "Ten e-book jest dla Ciebie, jeśli Twoje dziecko:",
+    "text": [
+      "zanim usiądzie do nauki, najpierw szuka podręcznika, temperuje ołówek, musi się napić, wychodzi do toalety",
+      "denerwuje się, ociąga lub okazuje zniecierpliwienie, gdy po raz kolejny pytasz, czy odrobiło lekcje",
+      "siada do nauki, ale jego myśli błądzą i wyraźnie ma problem aby skoncentrować się na przerabianym materiale",
+      "siadając do książek, zadaje pytania: „Do czego mi to potrzebne?”, „Po co mam się tego uczyć?”",
+      "nie wie, jak zabrać się do nauki i ciągle z tym zwleka",
+      "ma niedługo ważny egzamin"
+    ]
+  },
+  "failed": {
+    "heading": "Ten e-book nie jest dla Ciebie, jeśli Twoje dziecko:",
+    "text": [
+      "z przyjemnością i bez ociągania zabiera się za podręczniki",
+      "z łatwością potrafi koncentrować się na czytanym materiale",
+      "po przeczytaniu rozdziału z podręcznika od razu wszystko pamięta",
+      "nie ma problemów z nauką i koncentracją"
+    ]
+  }
+}

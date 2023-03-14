@@ -1,0 +1,9 @@
+{
+  "navbar": [
+    { "title": "Home", "link": "/" },
+    { "title": "Dla kogo", "link": "#dla_kogo" },
+    { "title": "O autorce", "link": "#autorka" },
+    { "title": "Co w środku?", "link": "#zawartosc" },
+    { "title": "Opinie", "link": "#opinie" }
+  ]
+}
