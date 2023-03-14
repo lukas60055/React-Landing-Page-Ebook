@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Reacnt-Landing-Page-Ebook/static/css/main.e0edc536.css",
-    "main.js": "/Reacnt-Landing-Page-Ebook/static/js/main.89ea17d5.js",
-    "static/media/parent.png": "/Reacnt-Landing-Page-Ebook/static/media/parent.343730820bdb9f88548d.png",
-    "static/media/book_mockup.png": "/Reacnt-Landing-Page-Ebook/static/media/book_mockup.4c8133e1a5d7a3312fa3.png",
-    "static/media/bootstrap-icons.woff?": "/Reacnt-Landing-Page-Ebook/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
-    "static/media/bootstrap-icons.woff2?": "/Reacnt-Landing-Page-Ebook/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
-    "static/media/mockup.png": "/Reacnt-Landing-Page-Ebook/static/media/mockup.d5cb88b9f251e2e3788a.png",
-    "static/media/ebook.png": "/Reacnt-Landing-Page-Ebook/static/media/ebook.835b78762ffbac3039a4.png",
-    "static/media/ForWhom_1.png": "/Reacnt-Landing-Page-Ebook/static/media/ForWhom_1.9cef174e825bc50c4d74.png",
-    "static/media/ForWhom_2.png": "/Reacnt-Landing-Page-Ebook/static/media/ForWhom_2.51554c8ff01bee2d261e.png",
-    "static/media/About.png": "/Reacnt-Landing-Page-Ebook/static/media/About.48008bea87b4da79cda5.png",
-    "static/media/HeaderBG.png": "/Reacnt-Landing-Page-Ebook/static/media/HeaderBG.211b61bca1697e49673f.png",
-    "index.html": "/Reacnt-Landing-Page-Ebook/index.html"
+    "main.css": "/React-Landing-Page-Ebook/static/css/main.5cb06834.css",
+    "main.js": "/React-Landing-Page-Ebook/static/js/main.98521f4f.js",
+    "static/media/parent.png": "/React-Landing-Page-Ebook/static/media/parent.343730820bdb9f88548d.png",
+    "static/media/book_mockup.png": "/React-Landing-Page-Ebook/static/media/book_mockup.4c8133e1a5d7a3312fa3.png",
+    "static/media/bootstrap-icons.woff?": "/React-Landing-Page-Ebook/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/React-Landing-Page-Ebook/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/mockup.png": "/React-Landing-Page-Ebook/static/media/mockup.d5cb88b9f251e2e3788a.png",
+    "static/media/ebook.png": "/React-Landing-Page-Ebook/static/media/ebook.835b78762ffbac3039a4.png",
+    "static/media/ForWhom_1.png": "/React-Landing-Page-Ebook/static/media/ForWhom_1.9cef174e825bc50c4d74.png",
+    "static/media/ForWhom_2.png": "/React-Landing-Page-Ebook/static/media/ForWhom_2.51554c8ff01bee2d261e.png",
+    "static/media/About.png": "/React-Landing-Page-Ebook/static/media/About.48008bea87b4da79cda5.png",
+    "static/media/HeaderBG.png": "/React-Landing-Page-Ebook/static/media/HeaderBG.211b61bca1697e49673f.png",
+    "index.html": "/React-Landing-Page-Ebook/index.html"
   },
   "entrypoints": [
-    "static/css/main.e0edc536.css",
-    "static/js/main.89ea17d5.js"
+    "static/css/main.5cb06834.css",
+    "static/js/main.98521f4f.js"
   ]
 }
